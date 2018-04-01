@@ -1,7 +1,7 @@
 ---
 title: "COMSW4733 - Introduction to Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2017-fall-robotics
 venue: "Columbia University, Computer Science"
 date: 2017-09-01

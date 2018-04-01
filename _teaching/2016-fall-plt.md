@@ -1,7 +1,7 @@
 ---
 title: "COMSW4115 - Programming Languages and Translators"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2016-fall-plt
 venue: "Columbia University, Computer Science"
 date: 2016-09-01
