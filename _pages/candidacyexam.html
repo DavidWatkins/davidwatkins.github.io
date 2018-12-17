@@ -13,45 +13,101 @@ author_profile: false
     <div style="text-align: center;">David Watins December 2018</div>
 
     <h2>Abstract</h2>
-    <p>As robots become more pervasive in our world,  there is the challenge of how to  make  them  learn  faster  and  better  adapt  to  different  tasks  and  scenarios. Reinforcement learning (RL) methods are being increasingly applied to a range of robotics  control tasks albeit RL research in real robot applications has not been able to match the success of RL in games and simulation. Since humans have a high level mastery of most tasks that robots learn,  they can provide explicit or implicit reward signals during robot learning.  This talk will overview the current state of the art RL approaches to robot learning-- including ways human experts can intuitively provide guidance to the robot learning process</p>
+    <p>Real world robotics is a multifarious process spanning several fields including simulation, semantic/scene understanding, machine learning, domain randomization, just to name a few. Ideally simulators would accurately capture the real world perfectly in a much faster capacity allowing for a predictive power of how a robot will interact with its environment. Unfortunately, simulators neither have the speed nor accuracy to support this. Simulators, such as Gazebo, Webots, and OpenRave, are supplemented with machine learned models of their environment to solve specific tasks such as scene understanding and path planning. This can be compared to a physical only solution which can be costly in terms of price and time. Advances in virtual reality allow for new ways for humans to provide training data for robotic systems in simulation. Using modern datasets such as SUNCG and Matterport3D we now have more ability than ever to train robots in virtual environments. Through understanding modern applications of simulations, better robotic platforms can be designed to solve some of the most pressing challenges of modern robotics. </p>
 
     <h2>Papers</h2>
 
     <h3>Background</h3>
     <ul>
         <li>Allen, P. K. (1990). <a href="{{ base_url }}/files/papers/cucs44389.pdf">3-D Sensor Data From Touch</a>, 1–18. http://doi.org/10.1109/70.59353</li>
+        <li>Dombre, E., & Khalil, W. (2007). <a href="{{ base_url }}/files/papers/continuous.pdf">Robot Manipulators</a>. Control, 1612, 123–138. http://doi.org/10.5772/87</li>
     </ul>
 
     <h3>Physical Learning Drawbacks</h3>
     <ul>
-        <li>Gu, S., Holly, E., Lillicrap, T., & Levine, S. (2017). <a href="{{ base_url }}/files/papers/Gu_et_al._Unknown_Deep_Reinforcement_Learning_for_Robotic_Manipulation_with_Asynchronous_OffPolicy_Updates(2).pdf">Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates.</a> In Proceedings - IEEE International Conference on Robotics and Automation (pp. 3389–3396). http://doi.org/10.1109/ICRA.2017.7989385</li>
+        <li>Gu, S., Holly, E., Lillicrap, T., & Levine, S. (2017). <a href="{{ base_url }}/files/papers/Gu_et_al._Unknown_Deep_Reinforcement_Learning_for_Robotic_Manipulation_with_Asynchronous_OffPolicy_Updates.pdf">Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates.</a> In Proceedings - IEEE International Conference on Robotics and Automation (pp. 3389–3396). http://doi.org/10.1109/ICRA.2017.7989385</li>
 
     </ul>
 
     <h3>Virtual Reality</h3>
+    <ul>
+        <li>Mandlekar, A., Zhu, Y., Garg, A., Booher, J., Spero, M., Tung, A., … Fei-Fei, L. (2018). <a
+                href="{{ base_url }}/files/papers/1811.02790.pdf">ROBOTURK: A
+            Crowdsourcing Platform for Robotic Skill Learning through Imitation</a>, (CoRL). Retrieved from http://vision.stanford.edu/pdf/mandlekar2018corl.pdf</li>
+        <li>Whitney, D., Rosen, E., Phillips, E., Konidaris, G., & Tellex, S. (2017). <a
+                href="{{ base_url }}/files/papers/Whitney_et_al._Unknown_Comparing_Robot_Grasping_Teleoperation_across_Desktop_and_Virtual_Reality_with_ROS_Reality.pdf">Comparing Robot Grasping
+            Teleoperation across Desktop and Virtual Reality with ROS Reality</a>. International Symposium on Robotics Research, 1–16. http://doi.org/10.4103/1817-1737.56008</li>
+    </ul>
 
     <h3>Simulators</h3>
+    <ul>
+        <li>Miller, A. T., & Allen, P. K. (2004). <a href="{{ base_url }}/files/papers/graspit.final.pdf">Graspit: A versatile simulator
+            for robotic grasping</a>. IEEE Robotics and Automation Magazine, 11(4), 110–122. http://doi.org/10.1109/MRA.2004.1371616</li>
+        <li>Michel, O. (2004). <a href="{{ base_url }}/files/papers/webots.pdf">Webots: professional mobile robot simulation.</a> International Journal of Advanced Robotic Systems, 1(1), 39–42. http://doi.org/10.1.1.86.1278</li>
+        <li>Diankov, R., & Kuffner, J. (2008). <a href="{{ base_url }}/files/papers/openrave.pdf">OpenRAVE : A Planning Architecture
+            for Autonomous Robotics</a>. Tech. Rep. CMU-RI-TR-08-34, Robotics Institute, (July). http://doi.org/CMU-RI-TR-08-34</li>
+        <li>Todorov, E., Erez, T., & Tassa, Y. (2012). <a href="{{ base_url }}/files/papers/mujoco.pdf">MuJoCo: A physics engine
+            for model-based control.</a> IEEE International Conference on Intelligent Robots and Systems, 5026–5033. http://doi.org/10.1109/IROS.2012.6386109</li>
+        <li>Koenig, N., & Howard, A. (2001). <a href="{{ base_url }}/files/papers/gazebo.pdf">Design and use paradigms for gazebo,
+            an open-source multi-robot
+            simulator.</a> 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566), 3(3), 2149–2154. http://doi.org/10.1109/IROS.2004.1389727</li>
+        <li>Xia, F., & Sax, A. (n.d.). <a href="{{ base_url }}/files/papers/Gibson_CVPR2018.pdf">Gibson Env : Real-World Perception for
+            Embodied Agents.</a></li>
+        <li>Savva, M., Chang, A. X., Dosovitskiy, A., & Funkhouser, T. (n.d.). <a href="{{ base_url }}/files/papers/1712.03931.pdf">MINOS : Multimodal Indoor Simulator</a>, 1–14.</li>
+    </ul>
+
+    <h3>Simulation Datasets</h3>
+    <ul>
+        <li>Chang, A., Dai, A., Funkhouser, T., Savva, M., & Song, S. (n.d.). <a href="{{ base_url }}/files/papers/1709.06158.pdf">Matterport3D : Learning from RGB-D Data in Indoor Environments.</a></li>
+        <li>Song, S., Yu, F., Zeng, A., Chang, A. X., Savva, M., & Funkhouser, T. (2016). <a
+                href="{{ base_url }}/files/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf">Semantic Scene Completion from a Single Depth Image</a>, 1746–1754. http://doi.org/10.1109/CVPR.2017.28</li>
+        <li>Calli, B., Walsman, A., Member, S., Singh, A., Member, S., Srinivasa, S., … Member, S. (n.d.). <a href="{{ base_url }}/files/papers/1502.03143.pdf">Benchmarking in Manipulation Research : The YCB Object and Model Set and Benchmarking Protocols.</a></li>
+        <li>Chang, A. X., Funkhouser, T., Guibas, L., Hanrahan, P., Huang, Q., Li, Z., … Yu, F. (2015). <a href="{{ base_url }}/files/papers/1512.03012.pdf">ShapeNet: An Information-Rich 3D Model Repository.</a> http://doi.org/10.1145/3005274.3005291</li>
+    </ul>
 
     <h3>Sim-to-real</h3>
+    <ul>
+        <li>Warnell, G., Waytowich, N., Lawhern, V., & Stone, P. (2017). <a href="{{ base_url }}/files/papers/1709.10163.pdf">Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces.</a> Retrieved from http://arxiv.org/abs/1709.10163</li>
+        <li>Tan, J., Zhang, T., Coumans, E., Iscen, A., Bai, Y., Hafner, D., … Vanhoucke, V. (2018). <a
+                href="{{ base_url }}/files/papers/Tan_et_al._2018_SimtoReal_Learning_Agile_Locomotion_For_Quadruped_Robots.pdf">Sim-to-Real:
+            Learning Agile Locomotion For Quadruped Robots</a>. http://doi.org/arXiv:1804.10332v2</li>
+        <li>Sadeghi, F., & Levine, S. (2016). <a href="{{ base_url }}/files/papers/Sadeghi_Unknown_CAD_2_RL_Real_SingleImage_Flight_Without_a_Single_Real_Image.pdf">CAD2RL: Real Single-Image Flight
+            without a Single Real Image</a>. http://doi.org/10.15607/RSS.2017.XIII.034</li>
+        <li>Lee, R., Mou, S., Dasagi, V., Bruce, J., Leitner, J., & Sünderhauf, N. (2018). <a
+                href="{{ base_url }}/files/papers/Lee_et_al._2018_Zeroshot_SimtoReal_Transfer_with_Modular_Priors.pdf">Zero-shot Sim-to-Real
+            Transfer with Modular Priors.</a> Retrieved from http://arxiv.org/abs/1809.07480</li>
+    </ul>
 
     <h3>Domain Randomization</h3>
-
-    <h3>Continuous vs. Discrete</h3>
-
-    <h3>Semantic Labeling</h3>
-
-    <h3>Scene Completion</h3>
+    <ul>
+        <li>Lee, M. A., Zhu, Y., Srinivasan, K., Shah, P., Savarese, S., Fei-Fei, L., … Bohg, J. (2018). <a href="{{ base_url }}/files/papers/1810.10191.pdf">Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks.</a> http://doi.org/arXiv:1810.10191v1</li>
+        <li>Tobin, J., Biewald, L., Duan, R., Andrychowicz, M., Handa, A., Kumar, V., … Abbeel, P. (2017). <a href="{{ base_url }}/files/papers/Tobin_et_al._Unknown_Domain_Randomization_and_Generative_Models_for_Robotic_Grasping.pdf">Domain
+            Randomization and Generative Models for Robotic Grasping.</a> http://doi.org/10.1017/CBO9781107415324.004</li>
+    </ul>
 
     <h3>Scene Understanding</h3>
+    <ul>
+        <li>Brook, P., Ciocarlie, M., & Hsiao, K. (2011). <a href="{{ base_url }}/files/papers/icra2011_collaborative.pdf">Collaborative grasp
+            planning with multiple object
+            representations.</a> Proceedings - IEEE International Conference on Robotics and Automation, 2851–2858. http://doi.org/10.1109/ICRA.2011.5980490</li>
+        <li>Li, Y., Yue, Y., Xu, D., Grinspun, E., & Allen, P. K. (2015). <a href="{{ base_url }}/files/papers/iros_2015_yli.pdf">Folding
+            Deformable Objects using Predictive
+            Simulation and Trajectory Optimization</a>, 6000–6006.</li>
+        <li>Shao, L., Tian, Y., & Bohg, J. (2018). <a href="{{ base_url }}/files/papers/1807.08894.pdf">ClusterNet: 3D Instance
+            Segmentation in RGB-D Images</a>, (1). http://doi.org/arXiv:1807.08894v2</li>
+        <li>Varley, J., Watkins-Valls, D., & Allen, P. (2018). <a href="{{ base_url }}/files/papers/1803.07671.pdf">Multi-Modal Geometric Learning for Grasping and Manipulation.</a> http://doi.org/arXiv:1803.07671v2</li>
+    </ul>
 
     <h3>Machine Learning</h3>
-
-
-    David is a Ph.D. research assistant directing research in Assistive Robotics and Semantic Scene Understanding at Columbia University in the [CRLab](https://crlab.cs.columbia.edu). His research makes it easier for people to use and interact with robots.
-
-    His other interests include video games, guitar, improv, and traveling.
-
-    More information about David is available in his [Curriculum Vitae]({{ base_url }}/cv/).
-
+    <ul>
+        <li>OpenAI, :, Andrychowicz, M., Baker, B., Chociej, M., Jozefowicz, R., … Zaremba, W. (2018). <a
+                href="{{ base_url }}/files/papers/Unknown_Unknown_Learning_Dexterous_InHand_Manipulation.pdf">Learning
+            Dexterous In-Hand Manipulation</a>, 1–27. http://doi.org/arXiv:1808.00177v2</li>
+        <li>Ha, D., & Schmidhuber, J. (2018). <a href="{{ base_url }}/files/papers/Ha_Schmidhuber_2018_World_Models.pdf">World Models</a>. http://doi.org/10.5281/zenodo.1207631</li>
+        <li>Li, T., Rai, A., Geyer, H., & Atkeson, C. G. (2018). <a href="{{ base_url }}/files/papers/Li_et_al._2018_Using_Deep_Reinforcement_Learning_to_Learn_HighLevel_Policies_on_the_ATRIAS_Biped.pdf">Using Deep
+            Reinforcement Learning to Learn
+            High-Level Policies on the ATRIAS Biped</a>. Retrieved from http://arxiv.org/abs/1809.10811</li>
+        <li>Faust, A., Ramirez, O., Fiser, M., Oslund, K., Francis, A., Davidson, J., & Tapia, L. (2017). <a href="{{ base_url }}/files/papers/1710.03937.pdf">PRM-RL: Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-based Planning.</a> http://doi.org/10.1109/ICRA.2018.8461096</li>
+    </ul>
 
 </div>
