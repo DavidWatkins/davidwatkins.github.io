@@ -1,11 +1,11 @@
 ---
 permalink: /candidacy_exam
-title: "David Watkins Candidacy Exam List"
+title: "Using Simulation to Enable Real World Robotics"
 excerpt: "Candidacy Exam List"
 author_profile: false
 ---
 
-# Using Simulation to Enable Real World Robotics
+<center>Candidacy Exam Paper List</center>
 <center>David Watins December 2018</center>
 
 ## Abstract
