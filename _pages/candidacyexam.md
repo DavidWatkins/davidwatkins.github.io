@@ -1,10 +1,14 @@
 ---
+layout: default
 permalink: /candidacy_exam
 title: "Using Simulation to Enable Real World Robotics"
 excerpt: "Candidacy Exam List"
 author_profile: false
 ---
 
+<div id="main" role="main">
+
+<center><h1>Using Simulation to Enable Real World Robotics</h1></center>
 <center>Candidacy Exam Paper List</center>
 <center>David Watins December 2018</center>
 
@@ -35,3 +39,6 @@ David is a Ph.D. research assistant directing research in Assistive Robotics and
 His other interests include video games, guitar, improv, and traveling.
 
 More information about David is available in his [Curriculum Vitae]({{ base_url }}/cv/).
+
+
+</div>
