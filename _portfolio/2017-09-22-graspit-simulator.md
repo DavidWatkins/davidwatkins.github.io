@@ -1,6 +1,6 @@
 ---
 title: "Graspit! Simulator"
-excerpt: "<img src='/images/portfolio/graspit-logo.jpg'/><br>I have made major modifications to the Graspit! source code including porting it to a headless implementation and improving it's CI"
+excerpt: "<img src='/images/portfolio/graspit-logo.jpg'/><br>I have made major modifications to the Graspit! source code including porting it to a headless implementation and improving its CI"
 collection: portfolio
 ---
 
