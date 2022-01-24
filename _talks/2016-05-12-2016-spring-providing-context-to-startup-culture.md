@@ -8,6 +8,6 @@ date: 2016-05-12
 location: "New York, New York"
 ---
 
-[More information here](http://davidwatkinsvalls.com/files/2016_spring_cp_presentation.pdf)
+<a href='{{ base_url }}/files/2016_spring_cp_presentation.pdf'>More information here</a>
 
 An analysis on the effectiveness of a startup based on the type of culture it maintains as well as effects on profit/loss
