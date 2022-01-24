@@ -1,5 +1,5 @@
 ---
-title: " Learning Your Way Without Map or Compass: Panoramic Target Driven Visual Navigation"
+title: "Learning Your Way Without Map or Compass: Panoramic Target Driven Visual Navigation"
 collection: publications
 permalink: /publication/2020-10-25-learning-your-way-without-map-or-compass
 excerpt: ''
