@@ -8,7 +8,3 @@ venue: 'RSS'
 paperurl: 'https://ddm2017.mit.edu/sites/default/files/documents/3.pdf'
 citation: 'Jacob Varley, David Watkins, and Peter Allen. “Visual-Tactile Geometric Reasoning (Abstract and Poster)”. In: Data-Driven Manipulation workshop, Robotics: Science and Systems (2017).'
 ---
-
-Jacob Varley, David Watkins, and Peter Allen. “Visual-Tactile Geometric Reasoning (Abstract and Poster)”. In: Data-Driven Manipulation workshop, Robotics: Science and Systems (2017).
-
-[paper](https://ddm2017.mit.edu/sites/default/files/documents/3.pdf)
