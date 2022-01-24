@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-20-multi-modal-geometric-learning-for-grasping-and-manipulation
 excerpt: ''
 date: 2019-05-20
-venue: 'ICRA 2019'
+venue: 'ICRA'
 paperurl: 'https://arxiv.org/abs/1803.07671'
 citation: 'D. Watkins-Valls, J. Varley and P. Allen, "Multi-Modal Geometric Learning for Grasping and Manipulation," 2019 International Conference on Robotics and Automation (ICRA), 2019, pp. 7339-7345, doi: 10.1109/ICRA.2019.8794233.'
 ---

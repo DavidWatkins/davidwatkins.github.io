@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-31-accelerated-robot-learning
 excerpt: ''
 date: 2020-05-31
-venue: 'ICRA 2020'
+venue: 'ICRA'
 paperurl: 'https://arxiv.org/pdf/1910.00682'
 citation: 'I. Akinola et al., "Accelerated Robot Learning via Human Brain Signals," 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 3799-3805, doi: 10.1109/ICRA40945.2020.9196566.'
 ---

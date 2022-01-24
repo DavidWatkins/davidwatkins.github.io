@@ -3,8 +3,8 @@ title: "Combining Learning from Human Feedback and Knowledge Engineering to Solv
 collection: publications
 permalink: /publication/2021-12-07-combing-learning-from-human-feedback
 excerpt: ''
-date: 2021-12-07
-venue: 'AAAI-MAKE 2022'
+date: 2022-01-01
+venue: 'AAAI-MAKE'
 paperurl: 'https://arxiv.org/abs/2112.03482'
 citation: 'Goecks, Vinicius G., et al. “Combining Learning from Human Feedback and Knowledge Engineering to Solve Hierarchical Tasks in Minecraft.” ArXiv:2112.03482 [Cs], Dec. 2021. arXiv.org, http://arxiv.org/abs/2112.03482.'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-10-25-learning-your-way-without-map-or-compass
 excerpt: ''
 date: 2020-10-25
-venue: 'IROS 2020'
+venue: 'IROS'
 paperurl: 'https://arxiv.org/abs/1909.09295'
 citation: 'D. Watkins-Valls, J. Xu, N. Waytowich and P. Allen, "Learning Your Way Without Map or Compass: Panoramic Target Driven Visual Navigation," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 5816-5823, doi: 10.1109/IROS45743.2020.9341511.'
 ---
