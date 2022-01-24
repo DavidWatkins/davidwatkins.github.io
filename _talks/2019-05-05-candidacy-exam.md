@@ -1,5 +1,5 @@
 ---
-title: "Simulation for Real World Robotics"
+title: "Candidacy Exam: Simulation for Real World Robotics"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-05-05-candidacy-exam

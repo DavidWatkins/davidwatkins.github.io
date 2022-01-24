@@ -1,7 +1,7 @@
 ---
 title: "Goldman Sachs Summer Analyst 2016"
 excerpt: "Margin Technology Summer Analyst"
-date: 2015-05-28
+date: 2015-06-01
 collection: work
 ---
 
