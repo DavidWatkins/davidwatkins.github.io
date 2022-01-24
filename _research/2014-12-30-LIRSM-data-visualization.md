@@ -9,6 +9,6 @@ paperurl: '/files/edm_submission.pdf'
 
 Responsible for developing web application in Node.js and Mongo to easily add and retrieve information from csv files. Participated in IT work and assisted with sessions in informing individuals on using UNIX. Developed strategies to acquire study data more efficiently and help audit costs on services
 
-Paper can be downloaded [here]({{ base_path }}/files/edm_submission.pdf). 
+Paper can be downloaded <a href="{{ base_path }}/files/edm_submission.pdf">here</a>. 
 
 More information about the lab can be found [here](http://www.columbia.edu/cu/psychology/vpvaughns/). 
