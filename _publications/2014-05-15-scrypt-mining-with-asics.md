@@ -5,7 +5,7 @@ permalink: /publication/2014-05-15-scrypt-mining-with-asics
 excerpt: ''
 date: 2014-05-15
 venue: 'Columbia University'
-paperurl: '{{ base_url }}/files/2014_spring_SMWA.pdf'
+paperurl: '/files/2014_spring_SMWA.pdf'
 citation: 'Watkins, David. "Scrypt Mining With ASICs." (2017).'
 ---
 
