@@ -1,12 +1,12 @@
 ---
 title: "Mobile Manipulation Leveraging Multiple Views"
 collection: publications
-permalink: /publication/2021-09-15-mobile-manipulation-leveraging-multiple-views
+permalink: /publication/2022-10-24-mobile-manipulation-leveraging-multiple-views
 excerpt: ''
-date: 2021-09-15
-venue: 'arXiv'
+date: 2022-10-24
+venue: 'IROS 2022'
 paperurl: 'https://arxiv.org/abs/2110.00717'
-citation: 'Watkins-Valls, David, et al. “Mobile Manipulation Leveraging Multiple Views.” ArXiv:2110.00717 [Cs], Oct. 2021. arXiv.org, http://arxiv.org/abs/2110.00717.'
+citation: 'Watkins-Valls, D., Maia H., Varley J., Seshadri M., Sanabria J., Waytowich, N., \& Allen, P. (2022). Mobile Manipulation Leveraging Multiple Views. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2022'
 ---
 
 # Abstract
