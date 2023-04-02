@@ -1,4 +1,4 @@
-A Github Pages website for David Watkins. Research Scientist at [BDAI](theaiinstitute.com) and Ph.D. from the [Columbia Robotics Lab](crlab.cs.columbia.edu). This template was forked from [academicpages.github.io](https://github.com/academicpages/academicpages.github.io). 
+A Github Pages website for David Watkins. Research Scientist at [BDAI](https://theaiinstitute.com) and Ph.D. from the [Columbia Robotics Lab](crlab.cs.columbia.edu). This template was forked from [academicpages.github.io](https://github.com/academicpages/academicpages.github.io). 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 1. Clone the repository and made updates as detailed above
