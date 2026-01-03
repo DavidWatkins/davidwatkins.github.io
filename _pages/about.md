@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "David Watkins - Robotics Ph.D. Candidate"
+title: "David Watkins - Principal Research Lead"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a research scientist and engineer working with robots for grasping and navigation using deep learning. I develop robotic systems across several domains including assistive care, real-world, simulation, and video games. I work with several different robotic technologies including robots from [Fetch](https://fetchrobotics.com/), [Kinova](https://www.kinovarobotics.com/), [Staubli](https://www.staubli.com/en-us/robotics/), [Barrett](https://advanced.barrett.com/barretthand), [Seed](https://www.seedrobotics.com/), and [Intel Realsense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html). I've worked on projects sponsored or afficilated with the [Army Research Lab](https://www.arl.army.mil/), [Google Robotics](https://research.google/teams/brain/robotics/), [NSF](https://www.nsf.gov/), and [NVIDIA](https://www.nvidia.com/en-us/research/). I've contributed to a number of open source frameworks, including [GraspIt!](https://graspit-simulator.github.io/).
+I'm a **Principal Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I build teams and ship AI systems for robotics. I've founded and led two research teams totaling 40 people (including a 30 person data collection team), secured 320 H100 GPUs worth of compute infrastructure, and established partnerships with leading organizations including Google, Hyundai, Columbia University, and ETH Zurich.
 
-I am a PhD from the [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) at [Columbia University](https://www.columbia.edu/), under supervision of [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/). My dissertation, Learning Mobile Manipulation, present a novel methodology for manipulating objects without the need for localization at runtime. 
+My work spans foundation models, robot learning, and large-scale data collection. I recently co-organized the [New England Manipulation Symposium (NEMS) 2025](https://nems2025.github.io/) at MIT and co-author "What to Tell the Robot" with Stefanie Tellex at Brown University. Our research has been published at top venues including CoRL, IJCAI, ICML, and IROS.
 
-While at the Columbia Robotics Lab and as an undergrad at Columbia University, I have either published or helped publish multiple research papers, assisted in teaching multiple courses, and participated in multiple entrepreneurship endeavours.
+Previously, I completed my Ph.D. at the [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) under [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/), where my dissertation on Learning Mobile Manipulation introduced novel approaches for robot manipulation without runtime localization. I've also been a CEO/Co-founder (Odefi, via Columbia IBM Blockchain Accelerator), Research Fellow at the Army Research Lab, and Engineering Intern at Goldman Sachs.
 
-More information about me is available in my <a href="{{ base_url }}/cv">curriculum vitae</a> or my <a href="{{ base_url }}/resume">resume</a>.
+I'm passionate about building teams, shipping products, and bridging the gap between research and real-world deployment. I've interviewed 225+ candidates, hired 50+ engineers/researchers, and deployed data collection infrastructure used by internal teams and external partners.
+
+More information is available in my <a href="{{ base_url }}/cv">curriculum vitae</a> or my <a href="{{ base_url }}/resume">resume</a>.

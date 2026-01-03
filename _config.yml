@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Watkins / Research Scientist"
+title                    : "David Watkins / Principal Research Lead"
 title_separator          : "-"
 name                     : &name "David Watkins"
-description              : &description "Research Scientist at BDAI | Ph.D. from Columbia University" #"Researcher at Columbia University in the Columbia Robotics Lab"
+description              : &description "Principal Research Lead at RAI Institute | Building teams and shipping AI for robotics"
 url                      : https://davidjosephwatkins.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidwatkins/davidwatkins.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "David J. Watkins"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist @ The AI Institute | Robotics/Machine Learning Ph.D. @ Columbia University"
+  bio              : "Principal Research Lead @ RAI Institute | Building teams (40 people) and shipping AI for robotics | Ph.D. Columbia"
   location         : "Boston, MA"
-  employer         : "Boston Dynamics AI Institute"
+  employer         : "RAI Institute"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2S7jVrMAAAAJ"
   email            : "davidwatkins@cs.columbia.edu"
   uri              :
