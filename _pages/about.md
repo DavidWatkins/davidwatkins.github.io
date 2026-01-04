@@ -11,7 +11,7 @@ redirect_from:
 I'm a **Principal Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I invent systems that enable robots to learn from multimodal sensory data.
 
 **What I've built:**
-- **World's first handheld force-based data collection** for robot training—capturing force, vision, and proprioception for in-the-wild demonstrations
+- **Handheld force-based data collection** for robot training, capturing force, vision, and proprioception for in-the-wild demonstrations
 - **Video prediction for robot policies** using internet-scale video as a prior (early 2023, before the wave)
 - **Multimodal architectures** combining novel sensors with internet-scale priors for improved behavioral execution
 - **Gradient-free RL** enabling online learning with non-differentiable semantic functions (U.S. Patent pending)

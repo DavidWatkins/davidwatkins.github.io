@@ -12,7 +12,7 @@ Cambridge, Massachusetts, United States
 **Sep 2023 – Present** · On-site
 
 **Inventions & Technical Innovation**
-- Pioneered world's first handheld force-based data collection system for robot training—capturing force, vision, and proprioception for in-the-wild demonstrations
+- Pioneered handheld force-based data collection system for robot training, capturing force, vision, and proprioception for in-the-wild demonstrations
 - Built video prediction system for robot policies using internet-scale video as prior (early 2023, before the wave); requires only limited real-world demonstrations
 - Designed multimodal architectures combining novel sensors with internet-scale priors for improved behavioral execution (publication pending)
 - Developed gradient-free RL enabling online learning with non-differentiable semantic functions (U.S. Patent pending, May 2025)
