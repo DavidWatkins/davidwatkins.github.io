@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Principal Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I build teams and ship AI systems for robotics. I've founded and led two research teams totaling 40 people (including a 30 person data collection team), secured 320 H100 GPUs worth of compute infrastructure, and established partnerships with leading organizations including Google, Hyundai, Columbia University, and ETH Zurich.
+I'm a **Principal Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I invent systems that enable robots to learn from multimodal sensory data.
 
-My work spans foundation models, robot learning, and large-scale data collection. I recently co-organized the [New England Manipulation Symposium (NEMS) 2025](https://nems25.github.io/) at MIT and co-author "What to Tell the Robot" with Stefanie Tellex at Brown University. Our research has been published at top venues including CoRL, IJCAI, ICML, and IROS.
+**What I've built:**
+- **World's first handheld force-based data collection** for robot training—capturing force, vision, and proprioception for in-the-wild demonstrations
+- **Video prediction for robot policies** using internet-scale video as a prior (early 2023, before the wave)
+- **Multimodal architectures** combining novel sensors with internet-scale priors for improved behavioral execution
+- **Gradient-free RL** enabling online learning with non-differentiable semantic functions (U.S. Patent pending)
 
-Previously, I completed my Ph.D. at the [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) under [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/), where my dissertation on Learning Mobile Manipulation introduced novel approaches for robot manipulation without runtime localization. I've also been a CEO/Co-founder (Odefi, via Columbia IBM Blockchain Accelerator), Research Fellow at the Army Research Lab, and Engineering Intern at Goldman Sachs.
+I believe robots require multimodal sensory data from online learning systems that co-exist with humans, updating reward and policy simultaneously. Getting there requires hardware/software co-optimization through multidisciplinary teams—which is why I've built two research teams (40 people) to scale these innovations.
 
-I'm passionate about building teams, shipping products, and bridging the gap between research and real-world deployment. I've interviewed 225+ candidates, hired 50+ engineers/researchers, and deployed data collection infrastructure used by internal teams and external partners.
+I write about robotics and embodied AI at [whattotelltherobot.com](https://whattotelltherobot.com) with [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and we're co-authoring "Elephants Don't Write Sonnets" (MIT Press 2026). I recently co-organized the [New England Manipulation Symposium (NEMS) 2025](https://nems25.github.io/) at MIT.
+
+Previously, I completed my Ph.D. at the [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) under [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/), where my dissertation introduced novel approaches for mobile manipulation without runtime localization (IROS 2022 Best Paper Finalist). I've also been a CEO/Co-founder (Odefi), Research Fellow at the Army Research Lab, and won 1st place at the MineRL BASALT Competition (NeurIPS 2021).
 
 More information is available in my <a href="{{ base_url }}/cv">curriculum vitae</a> or my <a href="{{ base_url }}/resume">resume</a>.
