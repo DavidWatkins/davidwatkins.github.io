@@ -5,25 +5,29 @@ date: 2022-12-01
 collection: work
 ---
 
-Full-time · 3+ yrs
+Full-time · 3+ yrs · Joined as employee #20, helped grow to 275+
 Cambridge, Massachusetts, United States
 
 ### Principal Research Lead
 **Sep 2023 – Present** · On-site
 
-**Inventions & Technical Innovation**
-- Pioneered handheld force-based data collection system for robot training, capturing force, vision, and proprioception for in-the-wild demonstrations
-- Built video prediction system for robot policies using internet-scale video as prior (early 2023, before the wave); requires only limited real-world demonstrations
-- Designed multimodal architectures combining novel sensors with internet-scale priors for improved behavioral execution (publication pending)
-- Developed gradient-free RL enabling online learning with non-differentiable semantic functions (U.S. Patent pending, May 2025)
-- Created task definition framework that makes human demonstrations more learnable for robots
-- Built ROS 2 interfaces and controllers for custom grippers leveraging novel force/torque sensors
+**Foundation Models & Infrastructure**
+- Founded two research teams: Foundation Models (10+ researchers) and Capture (30 people)
+- Built **320 H100 GPU cluster** for large-scale training of video prediction and multimodal models
+- Created Theia, a vision foundation model distilling multiple pretrained models into a compact representation that outperforms its teachers with less data (CoRL 2024)
+- Built video prediction system using internet-scale video as prior (early 2023, before the wave)
+- Designed multimodal architectures combining diverse sensor modalities with internet-scale pretrained priors
 
-**Scaling Innovations**
-- Founded two research teams to scale innovations: Foundation Models (10+ researchers) and Capture (30 people)
-- Capture is the largest data collection effort at the institute with a roadmap for 100,000+ demonstrations
-- Built 320 H100 GPU infrastructure for large-scale training of video prediction and multimodal models
+**Data Quality & Scale**
+- Lead the largest data collection effort at the institute with a roadmap for **100,000+ demonstrations**
+- Pioneered handheld force-based data collection system capturing force, vision, and proprioception
+- Created task definition frameworks and benchmark protocols for consistent, high-quality demonstrations
 - Established research partnerships with Google, Columbia, ETH Zurich, Agile Robots
+
+**Novel RL & Learning Methods**
+- Developed gradient-free RL enabling online learning with non-differentiable semantic reward functions (U.S. Patent pending, May 2025)
+- Created task definition framework that makes human demonstrations more learnable
+- Built ROS 2 interfaces and controllers for custom grippers leveraging novel force/torque sensors
 
 **Research & Publications**
 - Published at CoRL 2024, IJCAI 2024, ICML 2023
@@ -33,7 +37,7 @@ Cambridge, Massachusetts, United States
 ### Research Scientist
 **Dec 2022 – Aug 2023 · 9 mos**
 
-- Joined to build foundation models research capability from scratch
-- Invented early video prediction approach for robot policies leveraging internet-scale video data
+- Joined as one of the first employees to build foundation models research capability from scratch
+- Invented early video prediction approach leveraging internet-scale video data
 - Pitched and launched Foundation Models team
-- Created benchmark protocol for multiple teams based on state-of-the-art robotics manipulation datasets
+- Created benchmark protocol for multiple teams based on state-of-the-art manipulation datasets
