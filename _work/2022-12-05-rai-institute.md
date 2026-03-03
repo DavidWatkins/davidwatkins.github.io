@@ -1,6 +1,6 @@
 ---
 title: "RAI Institute"
-excerpt: "Principal Research Lead"
+excerpt: "Research Lead"
 date: 2022-12-01
 collection: work
 ---
@@ -8,19 +8,19 @@ collection: work
 Full-time · 3+ yrs · Joined as employee #20, helped grow to 275+
 Cambridge, Massachusetts, United States
 
-### Principal Research Lead
+### Research Lead
 **Sep 2023 – Present** · On-site
 
 **Foundation Models & Infrastructure**
 - Founded two research teams: Foundation Models (10+ researchers) and Capture (30 people)
 - Built **320 H100 GPU cluster** for large-scale training of video prediction and multimodal models
-- Created Theia, a vision foundation model distilling multiple pretrained models into a compact representation that outperforms its teachers with less data (CoRL 2024)
-- Built video prediction system using internet-scale video as prior (early 2023, before the wave)
+- Created Theia, a vision foundation model distilling multiple pretrained models into a compact representation (CoRL 2024)
+- Built video prediction system using internet-scale video as prior (early 2023)
 - Designed multimodal architectures combining diverse sensor modalities with internet-scale pretrained priors
 
 **Data Quality & Scale**
 - Lead the largest data collection effort at the institute with a roadmap for **100,000+ demonstrations**
-- Pioneered handheld force-based data collection system capturing force, vision, and proprioception
+- Built handheld force-based data collection system capturing force, vision, and proprioception
 - Created task definition frameworks and benchmark protocols for consistent, high-quality demonstrations
 - Established research partnerships with Google, Columbia, ETH Zurich, Agile Robots
 
@@ -38,6 +38,6 @@ Cambridge, Massachusetts, United States
 **Dec 2022 – Aug 2023 · 9 mos**
 
 - Joined as one of the first employees to build foundation models research capability from scratch
-- Invented early video prediction approach leveraging internet-scale video data
+- Developed early video prediction approach leveraging internet-scale video data
 - Pitched and launched Foundation Models team
 - Created benchmark protocol for multiple teams based on state-of-the-art manipulation datasets
