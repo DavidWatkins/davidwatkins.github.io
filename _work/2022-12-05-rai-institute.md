@@ -9,7 +9,7 @@ Full-time · 3+ yrs · Joined as employee #20, helped grow to 275+
 Cambridge, Massachusetts, United States
 
 ### Research Lead
-**Sep 2023 – Present** · On-site
+**Sep 2023 – Jun 2026** · On-site
 
 **Foundation Models & Infrastructure**
 - Founded two research teams: Foundation Models (10+ researchers) and Capture (30 people)

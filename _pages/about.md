@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I build foundation models and large-scale data infrastructure for learning. I joined as the 18th employee and helped grow the organization to over 275 people.
+I'm a **Research Lead** at [Tutor Intelligence](https://tutorintelligence.com/), where I work on foundation model research and training for robot manipulation. Previously I was a **Research Lead** at the [RAI Institute](https://theaiinstitute.com/) (formerly Boston Dynamics AI Institute), where I built foundation models and large-scale data infrastructure for learning; I joined as the 18th employee and helped grow the organization to over 275 people.
 
 ### Foundation Models & Large-Scale Training
 
