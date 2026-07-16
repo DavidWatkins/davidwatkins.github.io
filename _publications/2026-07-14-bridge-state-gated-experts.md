@@ -1,9 +1,9 @@
 ---
 title: "Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts"
 collection: publications
-permalink: /publication/2026-09-01-bridge-state-gated-experts
+permalink: /publication/2026-07-14-bridge-state-gated-experts
 excerpt: ''
-date: 2026-09-01
+date: 2026-07-14
 venue: 'CoRL 2026 (pending acceptance)'
 paperurl: 'https://nperi-rai.github.io/bridge-project/'
 citation: 'Surendran, V., Peri, N., & Watkins, D. (2026). Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts. Conference on Robot Learning (CoRL). (Pending acceptance)'
