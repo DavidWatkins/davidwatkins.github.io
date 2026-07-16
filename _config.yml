@@ -147,6 +147,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Build future-dated documents (e.g. upcoming talks / pending papers) so
+# their individual pages generate before the date passes.
+future: true
+
 
 # Conversion
 markdown: kramdown
