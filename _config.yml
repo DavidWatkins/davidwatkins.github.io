@@ -192,6 +192,9 @@ collections:
   work:
     output: true
     permalink: /:collection/:path/
+  writing:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,6 +265,14 @@ defaults:
   - scope:
       path: ""
       type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _writing
+  - scope:
+      path: ""
+      type: writing
     values:
       layout: single
       author_profile: true
