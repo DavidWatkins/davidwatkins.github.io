@@ -40,7 +40,7 @@ I'm a **Research Lead** at [Tutor Intelligence](https://tutorintelligence.com/),
 
 ### Education & Background
 
-- **Ph.D., M.S., B.S.** from [Columbia University](http://www.cs.columbia.edu/robotics/), [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) under [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/)
+- **Ph.D., M.S., B.S.** from [Columbia University](http://www.cs.columbia.edu/robotics/), [Columbia Robotics Lab](http://www.cs.columbia.edu/robotics/) under [Prof. Peter Allen](https://www.cs.columbia.edu/~allen/) ([academic lineage]({{ base_url }}/lineage))
 - Dissertation on mobile manipulation without runtime localization (**IROS 2022 Best Paper Finalist**)
 - **Army Research Lab Fellow** (2018–2022)
 - **CEO/Co-founder** of Odefi ([Columbia-IBM Blockchain Accelerator](https://innovationresources.columbia.edu/content/columbia-ibm-launch-accelerator))
