@@ -5,6 +5,7 @@ permalink: /publication/2025-08-06-elephants-dont-write-sonnets
 excerpt: ''
 date: 2025-08-06
 venue: 'MIT Press'
+status: forthcoming
 paperurl: '/files/tellexwatkins2026.pdf'
 citation: 'Tellex, S., & Watkins, D. (2026). Elephants Don’t Write Sonnets: The Grounded Turing Test for Embodied AI. In G. Konidaris (Ed.), Designing an Intelligence. MIT Press. (Forthcoming)'
 ---

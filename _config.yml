@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Watkins / Research Lead"
+title                    : "David Watkins / Head of Research"
 title_separator          : "-"
 name                     : &name "David Watkins"
-description              : &description "Research Lead working on foundation models and robot manipulation at scale"
+description              : &description "Head of Research at Tutor Intelligence, working on foundation models and robot manipulation at scale"
 url                      : https://davidjosephwatkins.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidwatkins/davidwatkins.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "David J. Watkins"
   avatar           : "profile.jpg"
-  bio              : "Research Lead | Foundation models and robot manipulation at scale | Advisor @ Tola Capital | Built teams of 40 | Ph.D. Columbia"
+  bio              : "Head of Research @ Tutor Intelligence | Foundation models and robot manipulation at scale | Advisor @ Tola Capital | Built teams of 40 | Ph.D. Columbia"
   location         : "Boston, MA"
   employer         : "Tutor Intelligence"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2S7jVrMAAAAJ"

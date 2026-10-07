@@ -5,7 +5,7 @@ date: 2022-12-01
 collection: work
 ---
 
-Full-time · 3+ yrs · Joined as employee #20, helped grow to 275+
+Full-time · Dec 2022 – Jun 2026
 Cambridge, Massachusetts, United States
 
 ### Research Lead
@@ -19,19 +19,21 @@ Cambridge, Massachusetts, United States
 - Designed multimodal architectures combining diverse sensor modalities with internet-scale pretrained priors
 
 **Data Quality & Scale**
-- Lead the largest data collection effort at the institute with a roadmap for **100,000+ demonstrations**
+- Led the largest data collection effort at the institute with a roadmap for **100,000+ demonstrations**
 - Built handheld force-based data collection system capturing force, vision, and proprioception
 - Created task definition frameworks and benchmark protocols for consistent, high-quality demonstrations
 - Established research partnerships with Google, Columbia, ETH Zurich, Agile Robots
 
-**Novel RL & Learning Methods**
+**Reinforcement Learning & Policy Execution**
 - Developed gradient-free RL enabling online learning with non-differentiable semantic reward functions (U.S. Patent pending, May 2025)
 - Created task definition framework that makes human demonstrations more learnable
-- Built ROS 2 interfaces and controllers for custom grippers leveraging novel force/torque sensors
+- Built ROS 2 interfaces and controllers for custom grippers using force/torque sensors
 
 **Research & Publications**
+- Led co-design of the Koala handheld and robotic gripper platform, under review at IEEE Transactions on Robotics (T-RO)
+- Co-authored BRIDGE, combining handheld and targeted teleoperated demonstrations for contact-rich manipulation, under review at ICRA 2027
 - Published at CoRL 2024, IJCAI 2024, ICML 2023
-- Co-authoring "Elephants Don't Write Sonnets" (MIT Press 2026) with Stefanie Tellex
+- Co-authored "Elephants Don't Write Sonnets" with Stefanie Tellex, a chapter in the forthcoming MIT Press volume *Designing an Intelligence*
 - Co-organized New England Manipulation Symposium (NEMS) 2025 at MIT
 
 ### Research Scientist

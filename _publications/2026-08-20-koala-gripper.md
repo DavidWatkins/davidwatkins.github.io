@@ -4,9 +4,10 @@ collection: publications
 permalink: /publication/2026-08-20-koala-gripper
 excerpt: ''
 date: 2026-08-20
-venue: 'arXiv preprint'
+venue: 'IEEE Transactions on Robotics (T-RO)'
+status: under_review
 paperurl: 'https://arxiv.org/abs/2608.20546'
-citation: 'Hajj-Ahmad, A., Guha, Z. K., Fofonoff, T., Teoh, Z. E., O''Neill, C. T., Thacher, B., Fala, I., Surendran, V., Wonsick, M., Whitney, P., & Watkins, D. (2026). Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning. arXiv:2608.20546.'
+citation: 'Hajj-Ahmad, A., Guha, Z. K., Fofonoff, T., Teoh, Z. E., O''Neill, C. T., Thacher, B., Fala, I., Surendran, V., Wonsick, M., Whitney, P., & Watkins, D. (2026). Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning. arXiv:2608.20546. Under review at IEEE Transactions on Robotics (T-RO).'
 ---
 
 # Abstract
