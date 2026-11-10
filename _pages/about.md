@@ -13,7 +13,7 @@ I'm **Head of Research** at [Tutor Intelligence](https://tutorintelligence.com/)
 ### Research at Tutor Intelligence
 
 - Led team improvements to full-rate, synchronized data logging and headless teleoperation; co-authored [**DF1: Maintaining Demonstration Quality in a 100-Robot Teleoperation Pipeline**]({{ base_url }}/publication/2026-07-13-df1-demo-quality) (RSS 2026 Workshop: It's the Demos)
-- Moved research training to a **32-H100 allocation** and experiment tracking to self-hosted MLflow
+- Moved research training to an **H100 allocation** and experiment tracking to self-hosted MLflow
 - Designed Rust middleware for data collection and policy execution, and brought an initial version onto robot hardware with motion inhibited
 - Set the research roadmap for policy evaluation and learning from human interventions
 
