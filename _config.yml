@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Watkins / Head of Research"
+title                    : "David Watkins"
 title_separator          : "-"
 name                     : &name "David Watkins"
 description              : &description "Head of Research at Tutor Intelligence, working on foundation models and robot manipulation at scale"
