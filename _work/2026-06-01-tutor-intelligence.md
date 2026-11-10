@@ -1,6 +1,6 @@
 ---
 title: "Tutor Intelligence"
-excerpt: "Head of Research"
+excerpt: "Member of Technical Staff, Research Lead"
 date: 2026-06-01
 collection: work
 ---
@@ -8,9 +8,10 @@ collection: work
 Full-time
 Watertown, Massachusetts, United States
 
-### Head of Research
+### Member of Technical Staff, Research Lead
 **Jun 2026 – Present** · On-site
 
+- Co-authored the [TI-0.1 Technical Report](https://research.tutorintelligence.com/ti0-1) on robot learning and the Golem software stack (November 2026)
 - Lead robot learning research linking policy training, demonstration quality, and deployment on a 100-robot bimanual fleet
 - Led team improvements to full-rate, synchronized data logging and headless teleoperation; co-authored the RSS 2026 workshop paper on demonstration quality
 - Designed Rust middleware for data collection and policy execution; brought an initial version onto robot hardware with motion inhibited
