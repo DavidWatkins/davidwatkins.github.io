@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **research lead** at [Tutor Intelligence](https://tutorintelligence.com/), where I lead robot learning research connecting policy training, demonstration quality, and deployment on a 100-robot bimanual fleet. I also advise [Tola Capital](https://tolacapital.com/) on robotics and AI investments. Previously I was a **Research Lead** at the [RAI Institute](https://rai-inst.com/) (formerly Boston Dynamics AI Institute), where I built the Foundation Models and Capture teams, foundation models, and large-scale data infrastructure for robot learning.
+I'm a **Research Lead** at [Tutor Intelligence](https://tutorintelligence.com/), where I lead robot learning research connecting policy training, demonstration quality, and deployment on a 100-robot bimanual fleet. I also advise [Tola Capital](https://tolacapital.com/) on robotics and AI investments. Previously I was a **Research Lead** at the [RAI Institute](https://rai-inst.com/) (formerly Boston Dynamics AI Institute), where I built the Foundation Models and Capture teams, foundation models, and large-scale data infrastructure for robot learning.
 
 ### Research at Tutor Intelligence
 
